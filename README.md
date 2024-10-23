@@ -63,13 +63,6 @@ Make sure to replace the following:
 ```
 
 The server will start and listen on the port defined in the .env file (default is 3000).
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
 
 
 ## Endpoints
